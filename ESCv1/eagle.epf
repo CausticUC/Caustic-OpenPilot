@@ -1,0 +1,26 @@
+[Eagle]
+Version="06 01 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Program Files/EAGLE-6.1.0/lbr/IR-HEXFET.lbr"
+UsedLibrary="C:/Program Files/EAGLE-6.1.0/lbr/NXP.lbr"
+UsedLibrary="C:/Program Files/EAGLE-6.1.0/lbr/TI_MSP430_v16.lbr"
+UsedLibrary="C:/Program Files/EAGLE-6.1.0/lbr/TI_TPS.lbr"
+UsedLibrary="C:/Program Files/EAGLE-6.1.0/lbr/diode.lbr"
+UsedLibrary="C:/Program Files/EAGLE-6.1.0/lbr/rcl.lbr"
+UsedLibrary="C:/Program Files/EAGLE-6.1.0/lbr/resistor-shunt.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="26 170 762 569"
+State=2
+Number=0
+
+[Desktop]
+Screen="1400 1050"
+Window="Win_1"
